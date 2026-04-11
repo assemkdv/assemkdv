@@ -13,13 +13,14 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230d0d0d?style=for-the-badge&logo=linkedin&logoColor=e8a598)](https://linkedin.com/in/assemkdv)
 
+
 </div>
 
 ---
 
-### ✨ about me
+### about me
 
-- 🎓 **B.S. Computer Science & Math @ TCU** 
+- **B.S. Computer Science & Math @ TCU** 
 
 ---
 
@@ -27,7 +28,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,java,js,html,css,php&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,php&theme=dark" />
 
 </div>
 
@@ -35,7 +36,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,intellij&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,vscode,figma,intellij,pytorch&theme=dark" />
 
 </div>
 
