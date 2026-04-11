@@ -23,6 +23,7 @@
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,java,js,html,css,php&theme=dark" />
 </div>
+
 ### tools & technologies
 <div align="center">
 <img src="https://skillicons.dev/icons?i=git,vscode,figma,pytorch&theme=dark" />
