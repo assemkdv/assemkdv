@@ -4,10 +4,9 @@
 
 <br/>
 
-# hi, i'm assem 
+# hi, i'm assem (samie)
 
 **CS & Math @ TCU**  
-`she/her`
 
 <br/>
 
