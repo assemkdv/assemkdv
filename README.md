@@ -36,7 +36,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,vscode,figma,intelliJ,pytorch&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,vscode,figma,pytorch&theme=dark" />
 
 </div>
 
