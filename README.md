@@ -6,7 +6,7 @@
 
 # hi, i'm assem 
 
-**CS & Math @ TCU · ML researcher**  
+**CS & Math @ TCU**  
 `she/her`
 
 <br/>
