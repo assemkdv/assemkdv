@@ -6,7 +6,7 @@
 
 ## hi, i am assem
 
-**cs @ match & tcu**  
+**cs & math @ tcu**  
 
 <br/>
 
