@@ -4,9 +4,7 @@
 
 <br/>
 
-# hi, i'm assem (samie)
-
-**CS & Math @ TCU**  
+**Connect with me!**  
 
 <br/>
 
