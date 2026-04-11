@@ -18,13 +18,6 @@
 </div>
 
 ---
-
-### about me
-
-- **B.S. Computer Science & Math @ TCU** 
-
----
-
 ### languages
 
 <div align="center">
@@ -43,7 +36,7 @@
 
 ---
 
-### 📊 github stats
+### github stats
 
 <div align="center">
 
