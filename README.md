@@ -11,10 +11,10 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230d0d0d?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/assemkdv)
-[![GitHub](https://img.shields.io/badge/GitHub-%230d0d0d?style=for-the-badge&logo=github&logoColor=f5f0e8)](https://github.com/assemkdv)
-[![Instagram](https://img.shields.io/badge/Instagram-%230d0d0d?style=for-the-badge&logo=instagram&logoColor=c97d9e)](https://instagram.com/asemkdv)
-[![Pinterest](https://img.shields.io/badge/Pinterest-%230d0d0d?style=for-the-badge&logo=pinterest&logoColor=e8a598)](https://pinterest.com/asemkdv)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/assemkdv)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/assemkdv)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/asemkdv)
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023?style=for-the-badge&logo=pinterest&logoColor=white)](https://pinterest.com/asemkdv)
 
 </div>
 
