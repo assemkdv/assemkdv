@@ -34,13 +34,3 @@
 <img src="https://skillicons.dev/icons?i=git,vscode,figma,pytorch&theme=dark" />
 
 </div>
-
----
-
-### github stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=assemkdv&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=c97d9e&icon_color=e8a598&text_color=f5f0e8)
-
-</div>
