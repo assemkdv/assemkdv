@@ -22,7 +22,12 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,php&theme=dark" />
+[![Python](https://skillicons.dev/icons?i=python&theme=dark)](https://python.org)
+[![Java](https://skillicons.dev/icons?i=java&theme=dark)](https://java.com)
+[![JavaScript](https://skillicons.dev/icons?i=js&theme=dark)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML](https://skillicons.dev/icons?i=html&theme=dark)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://skillicons.dev/icons?i=css&theme=dark)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![PHP](https://skillicons.dev/icons?i=php&theme=dark)](https://php.net)
 
 </div>
 
@@ -30,6 +35,9 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,vscode,figma,pytorch&theme=dark" />
+[![Git](https://skillicons.dev/icons?i=git&theme=dark)](https://git-scm.com)
+[![VSCode](https://skillicons.dev/icons?i=vscode&theme=dark)](https://code.visualstudio.com)
+[![Figma](https://skillicons.dev/icons?i=figma&theme=dark)](https://figma.com)
+[![PyTorch](https://skillicons.dev/icons?i=pytorch&theme=dark)](https://pytorch.org)
 
 </div>
