@@ -4,7 +4,7 @@
 
 <br/>
 
-## hi, i am assem
+## hi, i am assem (pronounced as ah-sem)
 
 **cs & math @ tcu**  
 
