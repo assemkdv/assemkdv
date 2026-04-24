@@ -6,7 +6,7 @@
 
 ## hi, i am assem (pronounced as ah-sem)
 
-**cs & math @ tcu**  
+**cs & math @ tcu**
 
 <br/>
 
@@ -27,4 +27,31 @@
 ### tools & technologies
 <div align="center">
 <img src="https://skillicons.dev/icons?i=git,vscode,figma,pytorch&theme=dark" />
+</div>
+
+---
+
+### stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=assemkdv&show_icons=true&theme=dark&border_color=C97D9E&title_color=C97D9E&icon_color=C97D9E&hide_border=false&bg_color=0d1117" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=assemkdv&layout=compact&theme=dark&border_color=C97D9E&title_color=C97D9E&bg_color=0d1117" height="165" />
+
+</div>
+
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=assemkdv&theme=dark&border=C97D9E&ring=C97D9E&fire=C97D9E&currStreakLabel=C97D9E&background=0d1117" />
+</div>
+
+---
+
+### contribution snake
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/assemkdv/assemkdv/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/assemkdv/assemkdv/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/assemkdv/assemkdv/output/github-contribution-grid-snake.svg" />
+</picture>
 </div>
