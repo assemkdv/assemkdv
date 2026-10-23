@@ -4,5 +4,6 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/assemkdv">linkedin</a> ·
-  <a href="https://github.com/assemkdv">github</a>
+  <a href="https://github.com/assemkdv">github</a> ·
+  <a href="mailto:kadirovaassema@gmail.com">email</a>
 </p>
